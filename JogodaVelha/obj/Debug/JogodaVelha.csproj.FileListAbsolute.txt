@@ -1,0 +1,10 @@
+D:\Users\Aluno\Desktop\luana\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+D:\Users\Aluno\Desktop\luana\JogodaVelha\bin\Debug\JogodaVelha.exe
+D:\Users\Aluno\Desktop\luana\JogodaVelha\bin\Debug\JogodaVelha.pdb
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.Form1.resources
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.Properties.Resources.resources
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.exe
+D:\Users\Aluno\Desktop\luana\JogodaVelha\obj\Debug\JogodaVelha.pdb

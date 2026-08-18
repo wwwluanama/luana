@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\luana\VETOR2\bin\Debug\net8.0\VETOR2.exe
+D:\Users\Aluno\Desktop\luana\VETOR2\bin\Debug\net8.0\VETOR2.deps.json
+D:\Users\Aluno\Desktop\luana\VETOR2\bin\Debug\net8.0\VETOR2.runtimeconfig.json
+D:\Users\Aluno\Desktop\luana\VETOR2\bin\Debug\net8.0\VETOR2.dll
+D:\Users\Aluno\Desktop\luana\VETOR2\bin\Debug\net8.0\VETOR2.pdb
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.dll
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\refint\VETOR2.dll
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.pdb
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\VETOR2.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\luana\VETOR2\obj\Debug\net8.0\ref\VETOR2.dll

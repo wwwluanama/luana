@@ -1,0 +1,13 @@
+D:\Users\Aluno\Desktop\luana\Banco\bin\Debug\Banco.exe.config
+D:\Users\Aluno\Desktop\luana\Banco\bin\Debug\Banco.exe
+D:\Users\Aluno\Desktop\luana\Banco\bin\Debug\Banco.pdb
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.f_Login.resources
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.F_MenuInicial.resources
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.exe
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.pdb
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.F_Depositar.resources
+D:\Users\Aluno\Desktop\luana\Banco\obj\Debug\Banco.F_Saque.resources

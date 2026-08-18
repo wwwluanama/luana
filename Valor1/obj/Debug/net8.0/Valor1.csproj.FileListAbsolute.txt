@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\luana\Valor1\bin\Debug\net8.0\Valor1.exe
+D:\Users\Aluno\Desktop\luana\Valor1\bin\Debug\net8.0\Valor1.deps.json
+D:\Users\Aluno\Desktop\luana\Valor1\bin\Debug\net8.0\Valor1.runtimeconfig.json
+D:\Users\Aluno\Desktop\luana\Valor1\bin\Debug\net8.0\Valor1.dll
+D:\Users\Aluno\Desktop\luana\Valor1\bin\Debug\net8.0\Valor1.pdb
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.dll
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\refint\Valor1.dll
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.pdb
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\Valor1.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\luana\Valor1\obj\Debug\net8.0\ref\Valor1.dll

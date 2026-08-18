@@ -1,0 +1,13 @@
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\bin\Debug\Salão de beleza- VIVIANE E LUANA.exe.config
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\bin\Debug\Salão de beleza- VIVIANE E LUANA.exe
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\bin\Debug\Salão de beleza- VIVIANE E LUANA.pdb
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão de beleza- VIVIANE E LUANA.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão_de_beleza__VIVIANE_E_LUANA.Form1.resources
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão_de_beleza__VIVIANE_E_LUANA.F_opcao.resources
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão_de_beleza__VIVIANE_E_LUANA.Properties.Resources.resources
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão de beleza- VIVIANE E LUANA.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão de beleza- VIVIANE E LUANA.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão de beleza- VIVIANE E LUANA.exe
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão de beleza- VIVIANE E LUANA.pdb
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão_de_beleza__VIVIANE_E_LUANA.F_Agendamento2.resources
+D:\Users\Aluno\Desktop\luana\Salão de beleza- VIVIANE E LUANA\obj\Debug\Salão_de_beleza__VIVIANE_E_LUANA.F_confirmar.resources

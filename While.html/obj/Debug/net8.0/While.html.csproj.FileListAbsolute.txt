@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\luana\While.html\bin\Debug\net8.0\While.html.exe
+D:\Users\Aluno\Desktop\luana\While.html\bin\Debug\net8.0\While.html.deps.json
+D:\Users\Aluno\Desktop\luana\While.html\bin\Debug\net8.0\While.html.runtimeconfig.json
+D:\Users\Aluno\Desktop\luana\While.html\bin\Debug\net8.0\While.html.dll
+D:\Users\Aluno\Desktop\luana\While.html\bin\Debug\net8.0\While.html.pdb
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.dll
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\refint\While.html.dll
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.pdb
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\While.html.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\luana\While.html\obj\Debug\net8.0\ref\While.html.dll
